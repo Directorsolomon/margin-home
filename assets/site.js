@@ -5,7 +5,7 @@ const MARGIN = {
   // The Lemon Squeezy checkout link for Margin. Empty until the store is approved.
   checkoutUrl: '',
   // True once the first release is published on GitHub.
-  downloadsReady: false,
+  downloadsReady: true,
 };
 
 const RELEASES = 'https://github.com/Directorsolomon/margin-home/releases/latest/download/';

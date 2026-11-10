@@ -14,6 +14,6 @@ Price, checkout link and whether downloads are live are set in one place, at the
 - `checkoutUrl`: Margin's Lemon Squeezy checkout link.
 - `downloadsReady`: `true` once the first release is published.
 
-The privacy policy, terms and refund policy are drafts and say so on the page. Review them before Margin goes on sale.
+The privacy policy, terms and refund policy name Directorsolomon Films as the seller and Nigerian law as the governing law. Review them whenever pricing, refunds or data handling change.
 
 Courier Prime is used under the SIL Open Font License (`assets/fonts/OFL.txt`).
