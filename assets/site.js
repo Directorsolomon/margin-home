@@ -2,8 +2,10 @@
 const MARGIN = {
   // The price as buyers see it, e.g. 'US$49'. Empty until the Lemon Squeezy product exists.
   price: '₦30,000',
-  // The Lemon Squeezy checkout link for Margin. Empty until the store is approved.
-  checkoutUrl: 'https://getmargin.lemonsqueezy.com/checkout/buy/0c01ee6f-e332-4d29-9586-7e9dd325a891',
+  // The Lemon Squeezy checkout link for Margin. Empty until the store is approved, since until
+  // then the checkout takes test cards. Test-mode link, to restore (or replace with the live one):
+  // https://getmargin.lemonsqueezy.com/checkout/buy/0c01ee6f-e332-4d29-9586-7e9dd325a891
+  checkoutUrl: '',
   // True once the first release is published on GitHub.
   downloadsReady: true,
 };
